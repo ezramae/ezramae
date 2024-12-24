@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="https://i.pinimg.com/originals/7e/e6/4d/7ee64d1a9d1529311d34af17af90437d.gif"  />
+</div>
 <h1 align="center">✨ Hello there! I'm Ezra Mae ✨ </h1>
 <h3 align="center">A mobile programming enthusiast and UI/UX design admirer from Indonesia!</h3>
 
