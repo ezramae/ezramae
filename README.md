@@ -1,45 +1,24 @@
-<h2 align="left">✨ Hello there!  ✨ <br>I'm Ezra Mae, a mobile programming enthusiast and UI/UX design admirer from Indonesia! 🎨📱<br>I love creating delightful user experiences and bringing ideas to life.<br>When I'm not coding, you'll find me playing games 🎮 or gushing over my favorite animal—hamsters! 🐹💕<br><br>Thanks for stopping by! 🌟</h2>
+<h1 align="center">✨ Hello there! I'm Ezra Mae ✨ </h1>
+<h3 align="center">A mobile programming enthusiast and UI/UX design admirer from Indonesia!</h3>
 
-###
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ezramae&label=Profile%20views&color=0e75b6&style=flat" alt="ezramae" /> </p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ezramae&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ezramae&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ezramae" alt="ezramae" /></a> </p>
 
-###
+- 🌱 I’m currently learning **Flutter and UI/UX**
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-</div>
+- 💬 Ask me about **Flutter**
 
-###
+- 📫 How to reach me **ezramaecrisnaweni@gmail.com**
 
-<div align="left">
-  <a href="https://www.youtube.com/@anteemotuturu" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  </a>
-  <a href="https://www.instagram.com/biblezra/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="ezramaecrisnaweni@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/ezra-mae/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
+- ⚡ Fun fact **When I'm not coding, you'll find me playing games 🎮 or gushing over my favorite animal—hamsters! 🐹**
 
-###
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/ezra-mae" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ezra-mae" height="30" width="40" /></a>
+<a href="https://instagram.com/biblezra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="biblezra" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/anteemotuturu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="anteemotuturu" height="30" width="40" /></a>
+</p>
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/ezramae/ezramae/output/snake.svg" alt="Snake animation" />
-
-###
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> </p>
